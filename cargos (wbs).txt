@@ -1,0 +1,20 @@
+Planejamento - Gerente 2h
+Equipe - Gerente 8h
+Custo - Gerente 8h
+Entrevista - Analista 8h
+Reunião - Analista 8h
+Protótipo - Designer 16h
+Diagrama caso de uso - Analista 8h
+Diagrama classe - Analista 8h
+Diagrama sequência - Analista 4h
+Diagrama componentes - Analista 4h
+Diagrama implantação - Analista 4h
+Codificação:
+ - FrontEnd - Designer(16h)
+ - BackEnd - Programador(80h)
+Testes - Tester 16h
+Configuração - Analista 8h
+Treinamento - Gerente 8h
+Homologação - Programador 40h
+Reunião final - Gerente 2h
+Documentação do projeto - Gerente 4h

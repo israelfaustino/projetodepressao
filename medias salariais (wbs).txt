@@ -1,0 +1,14 @@
+Média mensal de salários (tendo como base nível pleno).
+
+Gerente de projeto de sistemas R$ 13.873,00
+Designer R$ 3,040
+Programador R$ 3.650,00.
+Analista R$ 6.284,33
+Tester R$ 2.833,00
+
+Valor bruto por hora (levando em consideração 22 dias trabalhados).
+Gerente de projeto de sistemas R$ 79,00
+Designer R$ 18,00
+Programador R$ 21,00
+Analista R$ 36,00 
+Tester R$ 17,00
