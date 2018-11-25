@@ -18,3 +18,5 @@ Treinamento - Gerente 8h
 Homologação - Programador 40h
 Reunião final - Gerente 2h
 Documentação do projeto - Gerente 4h
+
+total: 252h (33 dias)
