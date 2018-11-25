@@ -1,3 +1,4 @@
+Carga horária:
 Planejamento - Gerente 2h
 Equipe - Gerente 8h
 Custo - Gerente 8h
@@ -19,4 +20,6 @@ Homologação - Programador 40h
 Reunião final - Gerente 2h
 Documentação do projeto - Gerente 4h
 
-total: 252h (33 dias)
+tempo bruto projeto: 50 dias (33 dias úteis)
+total líquido: 252h
+
